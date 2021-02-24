@@ -1,5 +1,5 @@
 # jiffies-project
-First homework assignment for Operating systems class<br />
+This assignment showcases kernel module creation and deletion, as well as a preview of how proc files are created within these modules. <br />
 
 How to run:<br />
     1. change directory to hello/jiffies/seconds<br />
