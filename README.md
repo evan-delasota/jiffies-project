@@ -10,5 +10,5 @@ How to run:<br />
 
 Commands in action using seconds as an example:<br />
 
-
-
+![Seconds-Process-Creation-And-Deletion](images/seconds-proc-created&removed.png)<br />
+![Seconds-Process-Output](images/seconds-proc-output.png)<br />
