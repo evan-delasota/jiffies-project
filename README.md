@@ -1,7 +1,7 @@
 # jiffies-project
 This assignment showcases kernel module creation and deletion, as well as a preview of how proc files are created within these modules. <br />
 
-# How to run:
+## How to run:
     1. Change directory to hello/jiffies/seconds
 
     2. Run "bash <filename>.sh" to run a script file that builds the kernel module, and runs a few commands featuring the function of the module and it's respective process that is created.
