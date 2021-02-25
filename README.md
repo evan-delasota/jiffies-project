@@ -4,7 +4,7 @@ This assignment showcases kernel module creation and deletion, as well as a prev
 ## How to run:
     1. Change directory to hello/jiffies/seconds
 
-    2. Run "bash <filename>.sh" to run a script file that builds the kernel module, and runs a few commands featuring the function of the module and it's respective process that is created.
+    2. Run "bash <filename>.sh" (e.g. jiffies.sh) to run a script file that builds the kernel module. This script also runs a few commands that features the function of the module along with the respective process that is created.
 ## Inside the script file
     "sudo insmod <filename.ko>" (e.g. "sudo insmod seconds.ko"), this inserts the module into the kernel
 
